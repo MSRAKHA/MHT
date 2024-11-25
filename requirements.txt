@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+requests
+pillow
+google-generativeai
+numpy
+bcrypt
+plotly
