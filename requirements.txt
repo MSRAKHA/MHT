@@ -6,3 +6,5 @@ google-generativeai
 numpy
 bcrypt
 plotly
+pygame
+
